@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+1.input n and k. find nCk=comp
+2.sort the given list
+3.multiply highest number with x=(n-1)C(k-1) and call this res. sum+=res where sum=0 initially
+4.nck=nck-x. if nck==0 return sum
+=======
+1.input n and k. find nCk=comp
+2.sort the given list
+3.multiply highest number with x=(n-1)C(k-1) and call this res. sum+=res where sum=0 initially
+4.nck=nck-x. if nck==0 return sum
+>>>>>>> efd4245fe427ffeefe49c72470b81a015d8dcf82
+5.repeat from step 3 decrementing n each time and multiplying next highest number each time.
